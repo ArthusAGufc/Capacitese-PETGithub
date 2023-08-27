@@ -1,6 +1,6 @@
 print("Hello word")
 
-x = 10
+x = 16
 
 if x == 10:
     print("testando")
